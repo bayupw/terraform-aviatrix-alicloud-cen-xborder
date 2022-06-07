@@ -7,7 +7,6 @@ region1_aviatrix_password      = "Aviatrix123#"
 region2_aviatrix_controller_ip = "4.3.2.1"
 region2_aviatrix_username      = "admin"
 region2_aviatrix_password      = "Aviatrix123#"
-cen_instance_name = "cen-instance"
 
 # Alibaba Cloud Configurations
 alicloud_access_key = "A1B2C3D4E5"
