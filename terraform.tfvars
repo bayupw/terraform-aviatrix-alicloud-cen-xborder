@@ -1,16 +1,16 @@
 # Region1 = China Region
 region1_aviatrix_controller_ip = "1.2.3.4"
 region1_aviatrix_username      = "admin"
-region1_aviatrix_password      = "Aviatrix123#"
+region1_aviatrix_password      = ""
 
 # Region2 = Global / Non-China Region
 region2_aviatrix_controller_ip = "4.3.2.1"
 region2_aviatrix_username      = "admin"
-region2_aviatrix_password      = "Aviatrix123#"
+region2_aviatrix_password      = ""
 
 # Alibaba Cloud Configurations
-alicloud_access_key = "A1B2C3D4E5"
-alicloud_secret_key = "5e4d3c2b1a0j9i8g7g5f"
+alicloud_access_key = ""
+alicloud_secret_key = ""
 region1_aliyun      = "cn-beijing"
 region2_aliyun      = "ap-southeast-1"
 
@@ -81,7 +81,7 @@ transit_data = {
       asn     = "65002"
     }
     aws_transit = {
-      cloud   = 1024
+      cloud   = 1
       account = "aws-account"
       region  = "ap-southeast-1"
       name    = "bwibowo-aws-sgp-tr"
